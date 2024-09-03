@@ -27,3 +27,11 @@ section#telefone{
     width: 312px;
     background: url('../imagens/mobile-frame2.png') no-repeat;
 }
+
+iframe#tela{
+    position: relative;
+    top: 10px;
+    left: 10px;
+    width: 295px;
+    height: 610px;
+}
